@@ -1,0 +1,24 @@
+[submodule "Skate_Dashboard"]
+	path = Skate_Dashboard
+	url = https://github.com/imadbenmadi/Skate_Dashboard.git
+[submodule "skate-server-v2"]
+	path = skate-server-v2
+	url = https://github.com/imadbenmadi/skate-server-v2.git
+[submodule "Skate_Server_v1"]
+	path = Skate_Server_v1
+	url = https://github.com/imadbenmadi/Skate_Server_v1.git
+[submodule "skate-front-v2"]
+	path = skate-front-v2
+	url = https://github.com/imadbenmadi/skate-front-v2.git
+[submodule "skate-dashboard-v2"]
+	path = skate-dashboard-v2
+	url = https://github.com/imadbenmadi/skate-dashboard-v2.git
+[submodule "Skate-front"]
+	path = Skate-front
+	url = https://github.com/imadbenmadi/Skate-front.git
+[submodule "Skate_front_old"]
+	path = Skate_front_old
+	url = https://github.com/imadbenmadi/Skate_front_old.git
+[submodule "skate_server_v2"]
+	path = skate_server_v2
+	url = https://github.com/imadbenmadi/skate_server_v2.git
